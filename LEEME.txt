@@ -1,0 +1,7 @@
+Guarde aquí la foto del prototipo 1 con este nombre exacto:
+
+    prototipo-1.jpg
+
+(minúsculas, con guion, extensión .jpg). La página la muestra sola en la
+tarjeta del prototipo 1; mientras no exista, se ve un recuadro amarillo.
+Ideal: foto vertical (proporción 4:5) y de menos de 1 MB.
